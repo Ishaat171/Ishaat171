@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,Opencv,Tensorflow,Pytorch,Django,Tkinter**
 
-- 📫 How to reach me **ishaatcat74@gmail.com**
+- 📫 How to reach me **ishaat48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
